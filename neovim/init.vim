@@ -6,3 +6,5 @@ call plug#end()
 " Colorscheme
 set background=dark
 colorscheme one
+
+set nomodeline
