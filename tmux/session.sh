@@ -1,6 +1,6 @@
-#!/bin/sh
+#!/bin/env bash
 
-SESSION_NAME="sunlitazure2"
+SESSION_NAME=$1
 
 tmux has-session -t ${SESSION_NAME}
 
