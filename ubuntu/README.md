@@ -8,7 +8,7 @@ cursor: DMZ-White
 Icons: Ubuntu-mono-dark
 shell: glassfull
 
-terminal settings: solarized dark and solarized pallet
+terminal settings: solarized dark and solarized pallet, with some background transparency
 
 
 install:
