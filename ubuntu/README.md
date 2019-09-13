@@ -21,6 +21,11 @@ install:
 * gnome-shell-extensions
 	* Enable user themes in the extensions tab of Tweaks. Logout and back in for it to register as enabled.
 	
+https://rockon999.github.io/dynamic-panel-transparency/
+* Download zip, move dictated folder to ~/.local/share/gnome-shell/extensions
+* In Tweaks enable dynaimc panel transparency in the extensions tab
+* click the gear icon -> background -> enable custom transparency, set both bars to 13%. Try opening a window maximized to verify it works
+	
 
 in settings:
 * Dock -> reduce icon settings, position right
