@@ -15,6 +15,7 @@ terminal settings: solarized dark and solarized pallet, with some background tra
 sudo apt update
 sudo apt upgrade
 
+move gtk.css to ~/.config/gtk-3.0, log out and back in, the title bars of windows should be smaller now
 
 install:
 * gnome-tweak-tool
