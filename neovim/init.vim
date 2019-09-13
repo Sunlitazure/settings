@@ -4,8 +4,8 @@ call plug#begin('~/.vim/plugged')
 call plug#end()
 
 " Colorscheme
-set background=dark
 colorscheme one
+set background=dark
 
 set nomodeline
 
