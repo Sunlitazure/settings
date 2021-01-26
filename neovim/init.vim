@@ -17,4 +17,6 @@ set shiftwidth=4
 
 set autoindent
 
+syntax on
+
 set tags=tags;/
